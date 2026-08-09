@@ -1,0 +1,6 @@
+{
+  "name": "Elshori7y",
+  "description": "Fast, privacy-focused temporary email service with bilingual (Arabic/English) support, instant auto-generation, countdown timers, and mail.tm API integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
